@@ -36,5 +36,5 @@ function draw(){
 }
 
 function take_snapshot(){
-  save('image_on_nose.png');
+  save('inose.png');
 }
